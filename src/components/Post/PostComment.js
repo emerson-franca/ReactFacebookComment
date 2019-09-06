@@ -5,6 +5,7 @@ import styled from "styled-components";
 const Wrapper = styled.div`
   margin: 20px 0;
   display: flex;
+  align-items: center;
 `;
 const UserAvatar = styled.img`
   border-radius: 50%;

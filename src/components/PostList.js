@@ -57,7 +57,7 @@ class PostList extends Component {
           avatar: "https://i.pravatar.cc/60?img=3"
         },
         date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+        content: "Bom dia!!",
         comments: [
           {
             id: 3,
@@ -65,7 +65,7 @@ class PostList extends Component {
               name: "Diego Fernandes",
               avatar: "https://i.pravatar.cc/40?img=2"
             },
-            content: "Conteúdo do comentário"
+            content: "Oi! Bom dia!"
           }
         ]
       }
